@@ -1,0 +1,31 @@
+{
+  "id": "the-harrowing-map-remakes-by-kalnix",
+  "title": "The Harrowing Map Remakes by Kalnix",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "Map remakes of the Pathfinder 1st Edition adventure, The Harrowing. It is only the maps and you need the PDF to run the adventure which can be found here https://paizo.com/products/btpy8lv9?Pathfinder-Module-The-Harrowing",
+  "authors": [
+    {
+      "name": "Kalnix",
+      "discord": "kalnix",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/Kalnix/the-harrowing-map-remakes-by-kalnix",
+  "packs": [
+    {
+      "name": "the-harrowing-map-remakes-by-kalnix",
+      "label": "The Harrowing Map Remakes by Kalnix",
+      "path": "packs/the-harrowing-map-remakes-by-kalnix",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
+}
